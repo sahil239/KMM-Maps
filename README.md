@@ -42,7 +42,7 @@ A Kotlin Multiplatform (KMM) sample app demonstrating:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-org/KMM-Maps.git
+   git clone https://github.com/sahil239/KMM-Maps.git
    cd KMM-Maps
    ```
 
@@ -51,7 +51,6 @@ A Kotlin Multiplatform (KMM) sample app demonstrating:
    Create or update the `local.properties` in the project root with:
 
    ```properties
-   GOOGLE_MAPS_API_KEY=YOUR_GOOGLE_API_KEY_HERE
    ADDRESS_SEARCH_API_KEY=YOUR_GOOGLE_API_KEY_HERE
    ```
 
